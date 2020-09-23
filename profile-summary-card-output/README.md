@@ -2,6 +2,10 @@
 # Preview Cards
 
 Here are all cards with themes.
+| :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
+| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+[Personal token need those permission](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Personal-access-token-permissions)
 
 
 ### default
@@ -56,4 +60,22 @@ Here are all cards with themes.
 [![](https://raw.githubusercontent.com/shtwangy/shtwangy/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/shtwangy/shtwangy/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
+
+
+### nord_bright
+
+
+```
+[![](https://raw.githubusercontent.com/shtwangy/shtwangy/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](https://raw.githubusercontent.com/shtwangy/shtwangy/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
+
+
+### nord_dark
+
+
+```
+[![](https://raw.githubusercontent.com/shtwangy/shtwangy/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+```
+![](https://raw.githubusercontent.com/shtwangy/shtwangy/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 
